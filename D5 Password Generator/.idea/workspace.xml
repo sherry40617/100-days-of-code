@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd0603c-5201-4577-b0eb-490f80151647" name="Changes" comment="" />
+    <list default="true" id="26d62ace-a46d-4de5-91ed-c1f6e472c9d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1yOfd2j2Y5MnWlEATUUUGgJDX2p" />
+  <component name="ProjectId" id="1yLrNqJKCQjbbEQ7W6jwa8cEqbV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +25,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="D7-Hang man" />
+      <module name="D5-Password_Generator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -49,11 +49,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcd0603c-5201-4577-b0eb-490f80151647" name="Changes" comment="" />
-      <created>1632127639176</created>
+      <changelist id="26d62ace-a46d-4de5-91ed-c1f6e472c9d1" name="Changes" comment="" />
+      <created>1632041671727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1632127639176</updated>
+      <updated>1632041671727</updated>
     </task>
     <servers />
   </component>
